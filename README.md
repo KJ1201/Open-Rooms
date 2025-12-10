@@ -56,7 +56,10 @@ lib/
 
 ## 📸 Screenshots
 
-(Add screenshots of Home Page, Available Rooms, Unavailable Rooms, etc.)
+![WhatsApp Image 2025-12-10 at 19 08 37_fd3cc86f](https://github.com/user-attachments/assets/5e2a3023-f53e-42df-aa6b-3da4a6643432)
+![WhatsApp Image 2025-12-10 at 19 08 37_cf87f6ed](https://github.com/user-attachments/assets/f437579d-7b8c-4d18-8f23-cb6e62cb9caa)
+![WhatsApp Image 2025-12-10 at 19 08 37_92022c33](https://github.com/user-attachments/assets/22269cd2-d2d0-4933-b390-84580d4c2541)
+
 
 ## 🏫 Use Case
 
